@@ -8,7 +8,7 @@ python-jose==3.4.0
 passlib[bcrypt]==1.7.4
 
 requests==2.32.4
-aiohttp==3.11.11
+aiohttp==3.14.5
 async-timeout
 aiocache
 aiofiles
@@ -62,13 +62,13 @@ einops==0.8.1
 
 
 ftfy==6.2.3
-pypdf==4.3.1
-fpdf2==2.8.2
+pypdf==6.21.4
+fpdf2==2.8.8
 pymdown-extensions==10.14.2
 docx2txt==0.8
 python-pptx==1.0.2
 unstructured==0.16.17
-nltk==3.9.1
+nltk==3.10.4
 Markdown==3.7
 pypandoc==1.15
 pandas==2.2.3
@@ -81,7 +81,7 @@ sentencepiece
 soundfile==0.13.1
 azure-ai-documentintelligence==1.0.2
 
-pillow==11.2.1
+pillow==13.0.0
 opencv-python-headless==4.11.0.86
 rapidocr-onnxruntime==1.4.4
 rank-bm25==0.2.2
@@ -91,9 +91,9 @@ onnxruntime==1.20.1
 faster-whisper==1.1.1
 
 PyJWT[crypto]==2.10.1
-authlib==1.4.1
+authlib==1.9.1
 
-black==25.1.0
+black==26.10.1
 langfuse==2.44.0
 youtube-transcript-api==1.1.0
 pytube==15.0.0
@@ -128,7 +128,7 @@ firecrawl-py==1.12.0
 tencentcloud-sdk-python==3.0.1336
 
 ## Trace
-opentelemetry-api==1.32.1
+opentelemetry-api==1.45.1
 opentelemetry-sdk==1.32.1
 opentelemetry-exporter-otlp==1.32.1
 opentelemetry-instrumentation==0.53b1
